@@ -450,6 +450,10 @@ footer button:hover {
     justify-content: space-between;
 }
 
+.soc_icons a:hover{
+    stroke: rgb(24, 24, 172);
+}
+
 .item{
     display: flex;
     justify-content: space-evenly;
